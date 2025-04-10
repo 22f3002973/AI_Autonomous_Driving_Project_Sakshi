@@ -1,4 +1,12 @@
 # AI Autonomous Driving Project 🚗💨
+# AI Autonomous Driving Project 🚗💨
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
 
 This repository contains an AI-based autonomous driving project developed as part of the Infosys initiative.
 
